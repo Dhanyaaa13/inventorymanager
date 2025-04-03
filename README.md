@@ -1,5 +1,5 @@
 # inventorymanager
-Developing  a web application for managing a small inventory, allowing users to add, view, and update inventory items. The system should include a basic analytical dashboard to provide key insights.
+Developing  a web application for managing a small inventory, allowing users to add, view, and update inventory items. The system  includes a basic analytical dashboard to provide key insights.
 Inventory Manager
 An inventory management application built with Next.js, Firebase, and Material-UI, allowing users to add, update, and remove items from their inventory. The application is deployed using Vercel.
 
