@@ -8,30 +8,36 @@ Add new items to the inventory.
 Increase or decrease the quantity of existing items.
 Remove items from the inventory when their quantity reaches zero.
 View a list of all inventory items with their quantities.
+
+
 Technologies Used
 Next.js: A React framework for server-side rendering and static site generation.
 Firebase: A platform developed by Google for creating mobile and web applications, used here for Firestore (a NoSQL database).
 Material-UI: A popular React UI framework for designing responsive user interfaces.
 Vercel: A cloud platform for static sites and serverless functions that enables developers to host websites and web applications.
 Getting Started
+
+
 Prerequisites
+
 Ensure you have the following installed:
 
 Node.js (>= 14.0.0)
 npm (>= 6.0.0) or yarn (>= 1.0.0)
+
 Installation
 Clone the repository:
 
 git clone https://github.com/your-username/inventory-manager.git
 cd inventory-manager
-Install the dependencies:
 
+Install the dependencies:
 npm install
 or
 
 yarn install
-Set up Firebase:
 
+Set up Firebase:
 Create a new Firebase project at Firebase Console.
 Set up Firestore in the Firebase project.
 Generate a Firebase configuration file and copy the configuration.
